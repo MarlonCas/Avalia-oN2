@@ -3,7 +3,7 @@ package A5POO;
 import javax.swing.JOptionPane;
 
 public class ClienteMoto extends Clientes {
-    float valor;
+    protected float valor;
     
     public ClienteMoto() {
     }
